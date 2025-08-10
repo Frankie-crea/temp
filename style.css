@@ -1,0 +1,42 @@
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+}
+div{
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    width: +270px;
+    height: 270px;
+    border-radius: 20px;
+    background-color: white;
+
+}
+h1{
+    color: blue;
+}
+#Mytextbox{
+    font-size: 20px;
+    width: 40px;
+    margin: 10px;
+    border: 2px solid black;
+
+}
+#Mybutton{
+    margin: 10px;
+    font-size: larger;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: rgb(46, 32, 155);
+    color: white;
+}
+label{
+    font-size: large;
+    margin: 1px;
+    font-weight: bold;
+}
+#Myp{
+    font-weight: bold;
+}
