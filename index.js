@@ -20,7 +20,7 @@ Mybutton.onclick= function convert(){
     }
     
     else{
-        Myp.textContent="select a unitff"
+        Myp.textContent="select a unit... "
     }
 
 
