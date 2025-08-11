@@ -11,12 +11,12 @@ Mybutton.onclick= function convert(){
     console.log(text)
     if(celsuis.checked){
         text=(text*9)/5 +32
-        Myp.textContent=`${text}\u00B0C`
+        Myp.textContent=`${text}\u00B0F`
     }
     else if(farenheight.checked){
         text=(text-32)*5/9
         
-        Myp.textContent=`${text}\u00B0F`
+        Myp.textContent=`${text}\u00B0C`
     }
     
     else{
